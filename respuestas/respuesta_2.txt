@@ -1,1 +1,1 @@
-TIPO | Justificación corta
+DOCUMENTOS (NoSQL) | Almacenan información semiestructurada con metadatos variables y versiones distintas, sin necesidad de un esquema fijo.
