@@ -1,1 +1,1 @@
-TIPO | Justificación corta
+SERIES TEMPORALES | Optimizan el almacenamiento y consulta de millones de registros indexados por fecha y hora, permitiendo análisis eficiente de métricas históricas.
